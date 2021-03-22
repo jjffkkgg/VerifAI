@@ -1,6 +1,7 @@
 """Neural network model"""
 
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_eager_execution()
 import numpy as np
 import os, glob
 import sys, argparse
