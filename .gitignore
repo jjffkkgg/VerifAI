@@ -1,3 +1,7 @@
+# picture output
+.png
+.jpg
+
 # Scenic cache files
 *.snet
 
