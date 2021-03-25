@@ -1,6 +1,6 @@
 # picture output
-.png
-.jpg
+*.png
+*.jpg
 
 # Scenic cache files
 *.snet
