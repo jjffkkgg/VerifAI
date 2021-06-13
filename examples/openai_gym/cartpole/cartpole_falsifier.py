@@ -37,7 +37,7 @@ else:
     sample_space = {'init_conditions': init_conditions, 'training_conditions': training_conditions}
 
 SAMPLERTYPE = 'ce'
-MAX_ITERS = 20
+MAX_ITERS = 100
 PORT = 8888
 MAXREQS = 5
 BUFSIZE = 4096
